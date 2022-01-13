@@ -1,6 +1,9 @@
 # dht22thingspeak
 <h1>監視狗狗環境溫濕度</h1>
 ![Image](https://github.com/joanneyu03/dht22thingspeak/blob/main/Thingspeak%20Chart.PNG)
+
+
+This is an example [圖片文件](ThingSpeak即時統計表.PNG) inline link.
 <h2>Environments and Tools</h2>
 
  - Raspberry Pi4 Model B(4GB)
