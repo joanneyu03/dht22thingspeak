@@ -7,6 +7,7 @@
 <h2>Environments and Tools</h2>
 
 <h3>1.Hardware</h3>
+
  - Raspberry Pi4 Model B(4GB)
  - DHT22 Humidity and temperature sensor
  - 32GB Micro SD Card
@@ -22,9 +23,13 @@ https://www.labno3.com/2021/03/21/raspberry-pi-humidity-sensor-using-the-dht22/
 <img src="圖片文件/dht22_circuit diagram.PNG" width="300" High="200">
 
 <h3>Environment</h3>
-
-- Raspberry Os
-- Python 3.7
+  <tr><td bgcolor=#3C3C3C>  
+ 
+   - Raspberry Os
+ 
+   - Python 3.7 
+ 
+ </td></tr>
    
    
    <h5> Install</h5> 
@@ -130,7 +135,7 @@ https://www.labno3.com/2021/03/21/raspberry-pi-humidity-sensor-using-the-dht22/
  
  
  
-  <h5> Bugs fix reference </h5> 
+  <h3> Bugs fix reference </h3> 
     <tr><td bgcolor=#3C3C3C>  
  
      https://www.cnblogs.com/hilary0614/p/dht11.html
@@ -145,7 +150,7 @@ https://www.labno3.com/2021/03/21/raspberry-pi-humidity-sensor-using-the-dht22/
  </td></tr>
 
 
-<h5> Program reference </h5> 
+<h3> Program reference </h3> 
     <tr><td bgcolor=#3C3C3C>  
  
     https://ithelp.ithome.com.tw/articles/10238029
@@ -157,8 +162,9 @@ https://www.labno3.com/2021/03/21/raspberry-pi-humidity-sensor-using-the-dht22/
 
  </td></tr>
  
- <h5>Future applications </h5> 
+ <h3>Future applications </h3> 
     <tr><td bgcolor=#3C3C3C>  
+ 
   因剛學習IoT及Python很多都不太會，這次因老師課程作業開始自學以及購買書籍學習，發現有很多領域都可以使用，此次原本計畫是透過Thingspeak MQTT Device，但因時間關係沒能成功....
   後續專案能結合智能除濕機以及空氣清淨機，若家中有小孩跟毛小孩能自行開發並運用IoT技術來達到自動偵測開啟智能家電，可以降低過敏源。
 
