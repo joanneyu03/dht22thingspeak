@@ -9,7 +9,7 @@
  - 5V 3A PSU USB C UK Plug
  - SOLDERLESS BREADBOARD MB-102
 
-<h2>how to set your DHT22  Humidity and temperature sensor<h2>
-  
+<h2>how to set your DHT22  Humidity and temperature sensor</h2>
+ ![image text](https://github.com/joanneyu03/dht22thingspeak/blob/main/DHT22_sensor1.jpg)
  
  
