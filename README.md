@@ -15,4 +15,5 @@
 
 <img src="https://github.com/joanneyu03/dht22thingspeak/blob/main/DHT22_sensor1.jpg" width="500" High="300">
 
- 
+https://www.labno3.com/2021/03/21/raspberry-pi-humidity-sensor-using-the-dht22/
+
