@@ -1,7 +1,7 @@
 # dht22thingspeak
 <h1>監視狗狗環境溫濕度</h1>
 
-![Alt text](https://github.com/joanneyu03/dht22thingspeak/blob/main/DHT22_sensor1.jpg)
+![Alt text](https://github.com/joanneyu03/dht22thingspeak/blob/main/Thingspeak%20Chart.PNG)
 
 
 <h2>Environments and Tools</h2>
