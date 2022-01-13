@@ -3,6 +3,7 @@
 
 ![Alt text](https://github.com/joanneyu03/dht22thingspeak/blob/main/DHT22_sensor1.jpg)
 
+
 <h2>Environments and Tools</h2>
 
  - Raspberry Pi4 Model B(4GB)
@@ -13,5 +14,5 @@
 
 <h2>how to set your DHT22  Humidity and temperature sensor</h2>
 
- 
+ ![Alt text](https://github.com/joanneyu03/dht22thingspeak/blob/main/DHT22_sensor1.jpg)
  
