@@ -1,6 +1,6 @@
 # dht22thingspeak
 <h1>監視狗狗環境溫濕度</h1>
-![image text](https://github.com/joanneyu03/dht22thingspeak/blob/main/Thingspeak%20Chart.PNG)
+![Image text](https://github.com/joanneyu03/dht22thingspeak/blob/main/Thingspeak%20Chart.PNG)
 <h2>Environments and Tools</h2>
 
  - Raspberry Pi4 Model B(4GB)
@@ -10,6 +10,6 @@
  - SOLDERLESS BREADBOARD MB-102
 
 <h2>how to set your DHT22  Humidity and temperature sensor</h2>
- ![image text](https://github.com/joanneyu03/dht22thingspeak/blob/main/DHT22_sensor1.jpg)
+ ![Image text](https://github.com/joanneyu03/dht22thingspeak/blob/main/DHT22_sensor1.jpg)
  
  
