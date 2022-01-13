@@ -1,8 +1,7 @@
 # dht22thingspeak
 <h1>監視狗狗環境溫濕度</h1>
 
-![Alt text](https://github.com/joanneyu03/dht22thingspeak/blob/main/Thingspeak%20Chart.PNG)
-
+<img src="https://github.com/joanneyu03/dht22thingspeak/blob/main/Thingspeak%20Chart.PNG" width="800" High="500">
 
 <h2>Environments and Tools</h2>
 
@@ -14,5 +13,6 @@
 
 <h2>how to set your DHT22  Humidity and temperature sensor</h2>
 
- ![Alt text](https://github.com/joanneyu03/dht22thingspeak/blob/main/DHT22_sensor1.jpg)
+<img src="https://github.com/joanneyu03/dht22thingspeak/blob/main/DHT22_sensor1.jpg" width="500" High="300">
+
  
