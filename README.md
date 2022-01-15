@@ -195,6 +195,12 @@ https://www.labno3.com/2021/03/21/raspberry-pi-humidity-sensor-using-the-dht22/
  
 </td></tr>
  
+ <h3>Thingview</h3>
+  <tr><td bgcolor=#3C3C3C>  
+ 
+
+ </td></tr>
+   
  
  <h3>Future applications </h3> 
   <tr><td bgcolor=#3C3C3C>  
